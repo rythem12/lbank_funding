@@ -141,6 +141,5 @@ Thumbs.db
 # Project specific
 *.html
 *.csv
-*.json
 geckodriver*
 debug_*.html 
