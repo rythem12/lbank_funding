@@ -1,0 +1,4010 @@
+{
+  "timestamp": "2025-07-30 12:28:27",
+  "funding_rates": [
+    {
+      "symbol": "btc_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eth_usdt",
+      "funding_rate": 0.0034,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sol_usdt",
+      "funding_rate": 0.0063,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "omni_usdt",
+      "funding_rate": -0.3777,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sui_usdt",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "btc_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tree_usdt",
+      "funding_rate": -0.11460000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eth_usd",
+      "funding_rate": -0.001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cfx_usdt",
+      "funding_rate": -0.014899999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xrp_usdt",
+      "funding_rate": 0.003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ltc_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xrp_usd",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ada_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "link_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avax_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sol_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "doge_usd",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sui_usd",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ika_usdt",
+      "funding_rate": 0.0138,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vine_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "spon_usdt",
+      "funding_rate": -0.0056,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "doge_usdt",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pumpfun_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pengu_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ena_usdt",
+      "funding_rate": -0.0071,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pepe_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fartcoin_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ada_usdt",
+      "funding_rate": 0.005399999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zora_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wif_usdt",
+      "funding_rate": 0.0043,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "esports_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avax_usdt",
+      "funding_rate": 0.00039999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "delabs_usdt",
+      "funding_rate": 0.0135,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000bonk_usdt",
+      "funding_rate": -0.0006000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bnb_usdt",
+      "funding_rate": 0.0083,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "form_usdt",
+      "funding_rate": 0.0137,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "spk_usdt",
+      "funding_rate": -0.2584,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hype_usdt",
+      "funding_rate": -0.001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "link_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bananas31_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tao_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ani_usdt",
+      "funding_rate": 0.0121,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "popcat_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ondo_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "op_usdt",
+      "funding_rate": 0.0089,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "asr_usdt",
+      "funding_rate": 0.0051,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sei_usdt",
+      "funding_rate": -0.0146,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trx_usdt",
+      "funding_rate": 0.006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sqd_usdt",
+      "funding_rate": -0.0179,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trollsol_usdt",
+      "funding_rate": 0.014100000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tia_usdt",
+      "funding_rate": -0.0262,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hbar_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zbcn_usdt",
+      "funding_rate": 0.055099999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "inj_usdt",
+      "funding_rate": 0.0053,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ltc_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pi_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "apt_usdt",
+      "funding_rate": -0.0127,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "debt_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fhe_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "arb_usdt",
+      "funding_rate": 0.003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "icnt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wld_usdt",
+      "funding_rate": 0.006600000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zrc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uni_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ldo_usdt",
+      "funding_rate": 0.0031999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dot_usdt",
+      "funding_rate": 0.009399999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aave_usdt",
+      "funding_rate": 0.002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dolo_usdt",
+      "funding_rate": 0.015200000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "qubic_usdt",
+      "funding_rate": 0.14450000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ckb_usdt",
+      "funding_rate": -0.0456,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bio_usdt",
+      "funding_rate": -0.051000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "toncoin_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "moodeng_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "c_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "near_usdt",
+      "funding_rate": -0.0184,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "virtual_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "b_usdt",
+      "funding_rate": 0.032,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fet_usdt",
+      "funding_rate": -0.0841,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "floki_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "crv_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "spx_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xlm_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alch_usdt",
+      "funding_rate": 0.0078,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sd_usdt",
+      "funding_rate": -0.0189,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "phy_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trumpofficial_usdt",
+      "funding_rate": 0.0023,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pnut_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jup_usdt",
+      "funding_rate": -0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sahara_usdt",
+      "funding_rate": -0.0572,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ethfi_usdt",
+      "funding_rate": -0.0026,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "home_usdt",
+      "funding_rate": 0.0119,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uranus_usdt",
+      "funding_rate": 0.0112,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trb_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hyper_usdt",
+      "funding_rate": -0.0812,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "shib_usdt",
+      "funding_rate": 0.0077,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "memecoin_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cat_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ai16z_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bch_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sun_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "degen_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "useless_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kas_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cake_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gala_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "b3_usdt",
+      "funding_rate": 0.0025,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "grass_usdt",
+      "funding_rate": -0.0123,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "algo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rez_usdt",
+      "funding_rate": -0.0837,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ach_usdt",
+      "funding_rate": 0.0073999999999999995,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "filecoin_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cyber_usdt",
+      "funding_rate": -0.012,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mkr_usdt",
+      "funding_rate": 0.0088,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "csky_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "render_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ordi_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "newt_usdt",
+      "funding_rate": -0.2863,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xny_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rune_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fun_usdt",
+      "funding_rate": -0.0028,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "turbo_usdt",
+      "funding_rate": 0.0043,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "altcoin_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "icp_usdt",
+      "funding_rate": 0.009600000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "om_usdt",
+      "funding_rate": -0.0199,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "atom_usdt",
+      "funding_rate": 0.0053,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ens_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "neiroeth_usdt",
+      "funding_rate": 0.030600000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ape_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "s_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tut_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dash_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "era_usdt",
+      "funding_rate": -0.028200000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jasmy_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "strk_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "etc_usdt",
+      "funding_rate": -0.0060999999999999995,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jst_usdt",
+      "funding_rate": -0.0135,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "launchcoin_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eigen_usdt",
+      "funding_rate": 0.0025,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ath_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pendle_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "brett_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "orca_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "knc_usdt",
+      "funding_rate": -0.0329,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zkwasm_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ar_usdt",
+      "funding_rate": 0.0033000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "syrup_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dsync_usdt",
+      "funding_rate": -0.012799999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tru_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bome_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "goat_usdt",
+      "funding_rate": -0.0465,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "the_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "goonc_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "iotx_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "asp_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xaut_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mav_usdt",
+      "funding_rate": 0.006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vra_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "resolv_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mubarak_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tag_usdt",
+      "funding_rate": 0.0052,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chillguy_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "daddy_usdt",
+      "funding_rate": 0.0119,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "strax_usdt",
+      "funding_rate": 0.012199999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aixbt_usdt",
+      "funding_rate": -0.0036,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gork_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "obol_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "red_usdt",
+      "funding_rate": 0.007899999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "white_usdt",
+      "funding_rate": 0.0117,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cro_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zeus_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dog_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jto_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xtz_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "siren_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "arkm_usdt",
+      "funding_rate": -0.0017,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xdc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "magic_usdt",
+      "funding_rate": -0.0039,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nil_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dogs_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "neirocto_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ice_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "peaq_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kernel_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "m_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cookie_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "startup_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cvx_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mdt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xai_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "banana_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "j_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "h_usdt",
+      "funding_rate": -0.007600000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vet_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pol_usdt",
+      "funding_rate": -0.006600000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mori_usdt",
+      "funding_rate": 0.0167,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sand_usdt",
+      "funding_rate": 0.0052,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "not_usdt",
+      "funding_rate": 0.001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "santos_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "epic_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "w_usdt",
+      "funding_rate": 0.0028,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cross_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "usual_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "myx_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ip_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bera_usdt",
+      "funding_rate": -0.06470000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aero_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "io_usdt",
+      "funding_rate": -0.009399999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "grt_usdt",
+      "funding_rate": -9.999999999999999e-05,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bomb_usdt",
+      "funding_rate": 0.0135,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "boxcat_usdt",
+      "funding_rate": -0.0126,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ogn_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mtl_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dydx_usdt",
+      "funding_rate": -0.0056,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zro_usdt",
+      "funding_rate": -0.0208,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cheems_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "btc_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gp_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rex_usdt",
+      "funding_rate": 0.0366,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dmc_usdt",
+      "funding_rate": -0.0439,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "arcsol_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zerebro_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fis_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "agt_usdt",
+      "funding_rate": 0.0303,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "supra_usdt",
+      "funding_rate": -0.0114,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lista_usdt",
+      "funding_rate": -0.0107,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "brise_usdt",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "idex_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rfc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hosico_usdt",
+      "funding_rate": -0.014799999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "griffain_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tst_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bsw_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uxlink_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rose_usdt",
+      "funding_rate": 0.0025,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "saga_usdt",
+      "funding_rate": 0.0015999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hifi_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "auction_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cetus_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "edge_usdt",
+      "funding_rate": -0.0007999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pyth_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ray_usdt",
+      "funding_rate": -0.0117,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "people_usdt",
+      "funding_rate": -0.0048000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "soph_usdt",
+      "funding_rate": -0.032,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "phb_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aiot_usdt",
+      "funding_rate": -0.1686,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kbbb_usdt",
+      "funding_rate": 0.008,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flr_usdt",
+      "funding_rate": -0.0024000000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "es_usdt",
+      "funding_rate": -0.078,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sushi_usdt",
+      "funding_rate": 0.0056,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vic_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chz_usdt",
+      "funding_rate": 0.0034999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zksync_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kaito_usdt",
+      "funding_rate": 0.0018,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "super_usdt",
+      "funding_rate": -0.05910000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rcade_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rpl_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "shell_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "token_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ain_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bake_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "paal_usdt",
+      "funding_rate": -0.012799999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xmr_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cult_usdt",
+      "funding_rate": 0.0126,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "plume_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "imx_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000000mog_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nobody_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dia_usdt",
+      "funding_rate": 0.0028,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eth_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "grok_usdt",
+      "funding_rate": 0.0585,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lqty_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "myro_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lunanew_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "duck_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "stx_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "harry_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hft_usdt",
+      "funding_rate": 0.0052,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "labubu_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fxs_usdt",
+      "funding_rate": -0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xem_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jellyjelly_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rsr_usdt",
+      "funding_rate": 0.0017,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "slf_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xion_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tomi_usdt",
+      "funding_rate": -0.0144,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "drift_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "port3_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "init_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nfp_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rei_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hmstr_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mew_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hold_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kekius_usdt",
+      "funding_rate": 0.0135,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "theta_usdt",
+      "funding_rate": 0.0049,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "manyu_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bdxn_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "azero_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "qnt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hippo_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "giga_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sundog_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hsk_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zig_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "velvet_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1inch_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rad_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "meme_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mask_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ai_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "saros_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "axs_usdt",
+      "funding_rate": 0.0088,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "portal_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "coti_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "c98_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "melania_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wal_usdt",
+      "funding_rate": -9.999999999999999e-05,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ln_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "moonpig_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lunc_usdt",
+      "funding_rate": -0.0232,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "haedal_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rwa_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bat_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mana_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "parti_usdt",
+      "funding_rate": -0.0053,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hyb_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ta_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "deep_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tai_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "comp_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tanssi_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avaai_usdt",
+      "funding_rate": 0.008,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000rats_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pippin_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "syn_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wct_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ethw_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "move_usdt",
+      "funding_rate": -0.041800000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tac_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fartcoin_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "apeth_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "iota_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kava_usdt",
+      "funding_rate": -0.006200000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sol_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rvn_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hook_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "deai_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "core_usdt",
+      "funding_rate": 0.0038000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sats_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000000babydoge_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gmt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tgt_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ctk_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "la_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "beamx_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ponke_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bmt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "paxg_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nxpc_usdt",
+      "funding_rate": -0.007899999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "velo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "manta_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "navx_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bb_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "neo_usdt",
+      "funding_rate": 0.006999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kda_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zkj_usdt",
+      "funding_rate": -0.0071,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "swarms_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "huma_usdt",
+      "funding_rate": -0.012899999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aevo_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "skate_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fwog_usdt",
+      "funding_rate": 0.0101,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "iost_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bigtime_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avail_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "layer_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "me_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "voxel_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "morpho_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "broccolif3b_usdt",
+      "funding_rate": 0.0726,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "baby_usdt",
+      "funding_rate": 0.0041,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "koma_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bel_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "100000aidoge_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "boom_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xcn_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "toshi_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cpool_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gor_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ftt_usdt",
+      "funding_rate": -0.0136,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kori_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pixel_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "skyai_usdt",
+      "funding_rate": 0.029,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "looks_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ksm_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mina_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "win_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hnt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ace_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aioz_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "arpa_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pepeontron_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "solv_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vsn_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ustc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vanry_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vana_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zen_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "enj_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "glm_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gun_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gnc_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uma_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blum_usdt",
+      "funding_rate": 0.0078,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "api3_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xrp_usdc",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pstake_usdt",
+      "funding_rate": 0.014100000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lpt_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cati_usdt",
+      "funding_rate": -0.019,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000btt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dym_usdt",
+      "funding_rate": -0.0136,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zil_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blur_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "swell_usdt",
+      "funding_rate": 0.0038000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bank_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "yala_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cos_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bid_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "egld_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sto_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "node_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sonic_usdt",
+      "funding_rate": -0.048299999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ultima_usdt",
+      "funding_rate": 0.0126,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eur_usdt",
+      "funding_rate": 0.0063,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rare_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "woo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dusk_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mavia_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vvv_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "order_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hei_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aurasol_usdt",
+      "funding_rate": 0.0114,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "slp_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tronstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bal_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "broccoli_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blz_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "house_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bulla_usdt",
+      "funding_rate": 0.011000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "elx_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tale_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "shx_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rai_usdt",
+      "funding_rate": -0.0115,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "storj_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dood_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sui_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "idol_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "og_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "movr_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "more_usdt",
+      "funding_rate": -0.0005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "irisvirtual_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mln_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "devve_usdt",
+      "funding_rate": -0.0138,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "skl_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cspr_usdt",
+      "funding_rate": -0.24849999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ygg_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dbr_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "snx_usdt",
+      "funding_rate": 0.0028,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lumia_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sxt_usdt",
+      "funding_rate": -0.018799999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lambo_usdt",
+      "funding_rate": -0.0127,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "one_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fida_usdt",
+      "funding_rate": -0.0053,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "10000why_usdt",
+      "funding_rate": 0.0843,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "act_usdt",
+      "funding_rate": 0.0005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flock_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zec_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alu_usdt",
+      "funding_rate": 0.0303,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "memefi_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pfvs_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fartboy_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sxp_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "id_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "axl_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "frag_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cvc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dego_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ankr_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "psg_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ilv_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alpha_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "l3_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ol_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "agi_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bar_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "city_usdt",
+      "funding_rate": -0.0144,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "taker_usdt",
+      "funding_rate": 0.0115,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "edu_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "akt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vr_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alice_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lever_usdt",
+      "funding_rate": 0.029799999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "prcl_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mat_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flm_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xvg_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "10000wen_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rbnt_usdt",
+      "funding_rate": -0.014899999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cess_usdt",
+      "funding_rate": -0.002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mnt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mbox_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aleo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "clanker_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ept_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "waves_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "spell_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "prime_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gmx_usdt",
+      "funding_rate": -0.017,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "x_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "echo_usdt",
+      "funding_rate": -0.017499999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hot_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "perp_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zero_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "agld_usdt",
+      "funding_rate": 0.0081,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flux_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "d_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cgpt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ark_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cudis_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lrc_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "polyx_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gps_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alpine_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "usdc_usdt",
+      "funding_rate": -0.0182,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flow_usdt",
+      "funding_rate": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xch_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "snt_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "npc_usdt",
+      "funding_rate": -0.0134,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rdnt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kmno_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mobile_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kaia_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "br_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "twt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "luce_usdt",
+      "funding_rate": -0.0119,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "f_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "yfi_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "celr_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "high_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "safe_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "puffer_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "major_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dupe_usdt",
+      "funding_rate": -0.0117,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mvl_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "joe_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "astr_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "myria_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "prom_usdt",
+      "funding_rate": -0.0021,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dodo_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cloud_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chr_usdt",
+      "funding_rate": -0.0069,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chess_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "a_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bobbsc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rss3_usdt",
+      "funding_rate": -0.0353,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "metis_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zeta_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "anime_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ont_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "elon_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "10000coq_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "qtum_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pha_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "celo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "t_usdt",
+      "funding_rate": 0.0031000000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "glmr_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "amp_usdt",
+      "funding_rate": 0.0107,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cow_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "doge_usdc",
+      "funding_rate": 0.004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "merl_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sys_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "audio_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ulti_usdt",
+      "funding_rate": -0.0023,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blast_usdt",
+      "funding_rate": -0.0579,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000000peipei_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aergo_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "juv_usdt",
+      "funding_rate": 0.013,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "send_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rdo_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "purr_usdt",
+      "funding_rate": 0.0063999999999999994,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bsv_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "spec_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "soonnetwork_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gas_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cbk_usdt",
+      "funding_rate": 0.014100000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xo_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ctsi_usdt",
+      "funding_rate": -0.050600000000000006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "moca_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "porto_usdt",
+      "funding_rate": -0.0131,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "elde_usdt",
+      "funding_rate": -0.0114,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "asrr_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fly_usdt",
+      "funding_rate": 0.0116,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "icgstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ntrn_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vtho_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "solo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ava_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dent_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ssv_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wild_usdt",
+      "funding_rate": -0.013,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xpr_usdt",
+      "funding_rate": 0.0117,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bico_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nmr_usdt",
+      "funding_rate": 0.0181,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "oxt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ada_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tlm_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "raca_usdt",
+      "funding_rate": 0.0063,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avl_usdt",
+      "funding_rate": 0.0025,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "10000ladys_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ena_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nkn_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sfp_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "scrt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pols_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "prompt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sign_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "masa_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pyr_usdt",
+      "funding_rate": 0.0083,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "anon_usdt",
+      "funding_rate": -0.014799999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "egl1_usdt",
+      "funding_rate": 0.014799999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xvs_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pepe_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "band_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zrx_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lava_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bitfstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hbar_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avax_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tnsr_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "a8_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1000bonk_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rlc_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ron_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fio_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cook_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ban_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "milk_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ybdbd_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ata_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gods_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "quick_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "swftc_usdt",
+      "funding_rate": -0.012,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "stg_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lsk_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "verseworld_usdt",
+      "funding_rate": -0.015799999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "osmo_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gbp_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trump_usdt",
+      "funding_rate": 0.0119,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aca_usdt",
+      "funding_rate": 0.0063,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bnt_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wmtx_usdt",
+      "funding_rate": -0.013300000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bnb_usdc",
+      "funding_rate": 0.0204,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nvidia_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "boop_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pumpbtc_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "slerf_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "crclstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ghst_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wif_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "b2_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "acs_usdt",
+      "funding_rate": 0.013200000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "g_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "scr_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pundix_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tfuel_usdt",
+      "funding_rate": 0.0039,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "df_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "roam_usdt",
+      "funding_rate": 0.0116,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ghx_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ltc_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tesla_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pengu_usdc",
+      "funding_rate": 0.0105,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "googlstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dgb_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "iq_usdt",
+      "funding_rate": 0.0111,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "velodrome_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ns_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ondo_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pal_usdt",
+      "funding_rate": 0.0119,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xec_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hive_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lazio_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gno_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pin_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gtc_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tel_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aic_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pokt_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "acx_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blue_usdt",
+      "funding_rate": -0.0071,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "seraph_usdt",
+      "funding_rate": 0.0072,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xlm_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bric_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ethwstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rion_usdt",
+      "funding_rate": 0.0113,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pond_usdt",
+      "funding_rate": 0.0118,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "farm_usdt",
+      "funding_rate": -0.0009,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trx_usdc",
+      "funding_rate": 0.006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fb_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "awe_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rif_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "metastock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "powr_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "snek_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aaplstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trump_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mcdstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "shib_usdc",
+      "funding_rate": 0.0036,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "link_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sc_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "icx_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mixie_usdt",
+      "funding_rate": -0.012,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "taiko_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mgo_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "coinbase_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "qi_usdt",
+      "funding_rate": -0.0904,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tia_usdc",
+      "funding_rate": -0.0007,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ctc_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sca_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pivx_usdt",
+      "funding_rate": 0.0193,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "popcat_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jpy_usdt",
+      "funding_rate": -0.0114,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "algo_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sweat_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "oik_usdt",
+      "funding_rate": 0.0134,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "brl_usdt",
+      "funding_rate": -0.0081,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pi_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "forth_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wld_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gorillabsc_usdt",
+      "funding_rate": -0.012199999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "waxp_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "boba_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ong_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "carv_usdt",
+      "funding_rate": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "arb_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "badger_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "robinhood_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "steem_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zent_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "obt_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aud_usdt",
+      "funding_rate": -0.0029,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hype_usdc",
+      "funding_rate": -0.001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "amznstock_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ton_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lmwr_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xno_usdt",
+      "funding_rate": -0.059500000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nexo_usdt",
+      "funding_rate": 0.0115,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "crv_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bch_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aave_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gpu_usdt",
+      "funding_rate": -0.013300000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ip_usdc",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "op_usdc",
+      "funding_rate": -0.0056,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dot_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "near_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mbl_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dag_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chf_usdt",
+      "funding_rate": -0.0136,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uni_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "try_usdt",
+      "funding_rate": 0.013200000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "apt_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fort_usdt",
+      "funding_rate": 0.014100000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "req_usdt",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vvaifu_usdt",
+      "funding_rate": -0.0121,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ordi_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fil_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "etc_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gala_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tst_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "orbs_usdt",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wan_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ethfi_usdc",
+      "funding_rate": -0.0137,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eigen_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nam_usdt",
+      "funding_rate": -0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pnut_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "strk_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "neo_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cad_usdt",
+      "funding_rate": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bera_usdc",
+      "funding_rate": -0.1044,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "stx_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bome_usdc",
+      "funding_rate": -0.0091,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ens_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kaito_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aevo_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "me_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vana_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pol_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "not_usdc",
+      "funding_rate": -0.0055000000000000005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cati_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "act_usdc",
+      "funding_rate": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mnt_usdc",
+      "funding_rate": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mx_usdt",
+      "funding_rate": 0.0,
+      "timestamp": "2025-07-30 12:28:27"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-01-18 17:30:00",
+  "description": "LBank 펀딩 레이트 수집에서 제외할 티커들의 블랙리스트",
+  "blacklist": [
+    "tibbir_usdt",
+    "ain_usdt",
+    "alu_usdt",
+    "tgt_usdt",
+    "qi_usdt",
+    "blast_usdt"
+  ]
+} 

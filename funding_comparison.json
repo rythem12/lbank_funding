@@ -1,0 +1,1412 @@
+{
+  "timestamp": "2025-07-30 12:28:27",
+  "comparisons": [
+    {
+      "symbol": "bid_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "shell_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dbr_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0012000000000000001,
+      "difference": 0.0088,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pengu_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "portal_usdt",
+      "lbank_rate": 0.0115,
+      "mexc_rate": 0.005,
+      "difference": 0.0065,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "waxp_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "link_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": 0.01,
+      "difference": 0.019999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "layer_usdt",
+      "lbank_rate": 0.0171,
+      "mexc_rate": 0.005,
+      "difference": 0.0121,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dot_usdt",
+      "lbank_rate": 0.0173,
+      "mexc_rate": 0.009399999999999999,
+      "difference": 0.0079,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "people_usdt",
+      "lbank_rate": -0.0015,
+      "mexc_rate": -0.0048000000000000004,
+      "difference": 0.0033000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lista_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0107,
+      "difference": 0.0207,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aleo_usdt",
+      "lbank_rate": 0.0155,
+      "mexc_rate": 0.01,
+      "difference": 0.0055,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "neo_usdt",
+      "lbank_rate": 0.0034,
+      "mexc_rate": 0.006999999999999999,
+      "difference": -0.0035999999999999995,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "parti_usdt",
+      "lbank_rate": 0.0208,
+      "mexc_rate": -0.0053,
+      "difference": 0.026099999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "twt_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "quick_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "baby_usdt",
+      "lbank_rate": 0.0211,
+      "mexc_rate": 0.0041,
+      "difference": 0.017,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "siren_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aixbt_usdt",
+      "lbank_rate": -0.0013,
+      "mexc_rate": -0.0036,
+      "difference": 0.0023,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sei_usdt",
+      "lbank_rate": -0.0158,
+      "mexc_rate": -0.0146,
+      "difference": -0.0012000000000000014,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bmt_usdt",
+      "lbank_rate": 0.0248,
+      "mexc_rate": 0.005,
+      "difference": 0.019799999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rez_usdt",
+      "lbank_rate": -0.0817,
+      "mexc_rate": -0.0837,
+      "difference": 0.0020000000000000018,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xtz_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.0012000000000000001,
+      "difference": 0.0138,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blum_usdt",
+      "lbank_rate": -0.01,
+      "mexc_rate": 0.0078,
+      "difference": -0.0178,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "arb_usdt",
+      "lbank_rate": 0.0046,
+      "mexc_rate": 0.003,
+      "difference": 0.0015999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "atom_usdt",
+      "lbank_rate": 0.0015,
+      "mexc_rate": 0.0053,
+      "difference": -0.0038,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "banana_usdt",
+      "lbank_rate": 0.0359,
+      "mexc_rate": 0.005,
+      "difference": 0.0309,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mask_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.01,
+      "difference": 0.004999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kernel_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hft_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0052,
+      "difference": 0.0048000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "solv_usdt",
+      "lbank_rate": -0.0178,
+      "mexc_rate": 0.005,
+      "difference": -0.0228,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uni_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": 0.01,
+      "difference": 0.019999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "blur_usdt",
+      "lbank_rate": 0.0085,
+      "mexc_rate": 0.01,
+      "difference": -0.0014999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "w_usdt",
+      "lbank_rate": 0.0075,
+      "mexc_rate": 0.0028,
+      "difference": 0.004699999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "send_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zeta_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "red_usdt",
+      "lbank_rate": -0.01,
+      "mexc_rate": 0.007899999999999999,
+      "difference": -0.0179,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pi_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "boom_usdt",
+      "lbank_rate": -0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.03,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fartcoin_usdt",
+      "lbank_rate": 0.0845,
+      "mexc_rate": 0.005,
+      "difference": 0.0795,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "spx_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "syrup_usdt",
+      "lbank_rate": 0.034,
+      "mexc_rate": 0.005,
+      "difference": 0.029,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ip_usdt",
+      "lbank_rate": 0.0465,
+      "mexc_rate": 0.02,
+      "difference": 0.0265,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "strk_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "auction_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.005,
+      "difference": 0.009999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sxp_usdt",
+      "lbank_rate": 0.0245,
+      "mexc_rate": 0.01,
+      "difference": 0.0145,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rfc_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "super_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.05910000000000001,
+      "difference": 0.06910000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "imx_usdt",
+      "lbank_rate": 0.0075,
+      "mexc_rate": 0.005,
+      "difference": 0.0024999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "orca_usdt",
+      "lbank_rate": 0.0208,
+      "mexc_rate": 0.005,
+      "difference": 0.015799999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flow_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": -0.01,
+      "difference": 0.04,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kava_usdt",
+      "lbank_rate": -0.0121,
+      "mexc_rate": -0.006200000000000001,
+      "difference": -0.005899999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "form_usdt",
+      "lbank_rate": 0.0148,
+      "mexc_rate": 0.0137,
+      "difference": 0.0011000000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "griffain_usdt",
+      "lbank_rate": 0.0493,
+      "mexc_rate": 0.005,
+      "difference": 0.0443,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "drift_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zerebro_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fun_usdt",
+      "lbank_rate": 0.0147,
+      "mexc_rate": -0.0028,
+      "difference": 0.017499999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rif_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tut_usdt",
+      "lbank_rate": 0.0237,
+      "mexc_rate": 0.005,
+      "difference": 0.018699999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mubarak_usdt",
+      "lbank_rate": -0.01,
+      "mexc_rate": 0.005,
+      "difference": -0.015,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bsw_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vine_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.005,
+      "difference": 0.009999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jto_usdt",
+      "lbank_rate": 0.0364,
+      "mexc_rate": 0.005,
+      "difference": 0.031400000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fwog_usdt",
+      "lbank_rate": 0.0313,
+      "mexc_rate": 0.0101,
+      "difference": 0.021200000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lpt_usdt",
+      "lbank_rate": -0.0031,
+      "mexc_rate": 0.0,
+      "difference": -0.0031,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aic_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gala_usdt",
+      "lbank_rate": 0.018,
+      "mexc_rate": 0.01,
+      "difference": 0.007999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cetus_usdt",
+      "lbank_rate": 0.0473,
+      "mexc_rate": 0.005,
+      "difference": 0.042300000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ace_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.005,
+      "difference": 0.009999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "etc_usdt",
+      "lbank_rate": -0.0089,
+      "mexc_rate": -0.0060999999999999995,
+      "difference": -0.0028000000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ai_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "jup_usdt",
+      "lbank_rate": 0.0,
+      "mexc_rate": -0.0012000000000000001,
+      "difference": 0.0012000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ath_usdt",
+      "lbank_rate": 0.0293,
+      "mexc_rate": 0.005,
+      "difference": 0.0243,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "clanker_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tel_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vvaifu_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0121,
+      "difference": 0.0221,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tnsr_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ray_usdt",
+      "lbank_rate": -0.0099,
+      "mexc_rate": -0.0117,
+      "difference": 0.0017999999999999995,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "badger_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "shib_usdt",
+      "lbank_rate": 0.0067,
+      "mexc_rate": 0.0077,
+      "difference": -0.001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "doge_usdt",
+      "lbank_rate": 0.0095,
+      "mexc_rate": 0.004,
+      "difference": 0.0055,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ilv_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pond_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0118,
+      "difference": -0.0017999999999999995,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "memecoin_usdt",
+      "lbank_rate": 0.0146,
+      "mexc_rate": 0.02,
+      "difference": -0.0054,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "safe_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "the_usdt",
+      "lbank_rate": 0.0245,
+      "mexc_rate": 0.005,
+      "difference": 0.0195,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "anime_usdt",
+      "lbank_rate": 0.0105,
+      "mexc_rate": 0.005,
+      "difference": 0.0055000000000000005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "agld_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0081,
+      "difference": 0.0019000000000000006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "brett_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ghst_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ondo_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.005,
+      "difference": 0.009999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "broccoli_usdt",
+      "lbank_rate": 0.0206,
+      "mexc_rate": 0.005,
+      "difference": 0.0156,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sushi_usdt",
+      "lbank_rate": 0.0091,
+      "mexc_rate": 0.0056,
+      "difference": 0.0035000000000000005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "axs_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0088,
+      "difference": 0.0011999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ldo_usdt",
+      "lbank_rate": 0.0045,
+      "mexc_rate": 0.0031999999999999997,
+      "difference": 0.0013,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ava_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ckb_usdt",
+      "lbank_rate": -0.0379,
+      "mexc_rate": -0.0456,
+      "difference": 0.0076999999999999985,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "elon_usdt",
+      "lbank_rate": 0.0226,
+      "mexc_rate": 0.005,
+      "difference": 0.017599999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "eigen_usdt",
+      "lbank_rate": -0.0021,
+      "mexc_rate": 0.0025,
+      "difference": -0.0046,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hook_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": 0.01,
+      "difference": 0.019999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pixel_usdt",
+      "lbank_rate": 0.0478,
+      "mexc_rate": 0.005,
+      "difference": 0.042800000000000005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avl_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0025,
+      "difference": 0.0075,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chz_usdt",
+      "lbank_rate": 0.0012,
+      "mexc_rate": 0.0034999999999999996,
+      "difference": -0.0023,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nmr_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0181,
+      "difference": -0.008100000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "b3_usdt",
+      "lbank_rate": 0.0125,
+      "mexc_rate": 0.0025,
+      "difference": 0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "wct_usdt",
+      "lbank_rate": 0.0117,
+      "mexc_rate": 0.005,
+      "difference": 0.0067,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "x_usdt",
+      "lbank_rate": 0.0075,
+      "mexc_rate": 0.005,
+      "difference": 0.0024999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xion_usdt",
+      "lbank_rate": 0.0115,
+      "mexc_rate": 0.005,
+      "difference": 0.0065,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "chillguy_usdt",
+      "lbank_rate": 0.0143,
+      "mexc_rate": 0.005,
+      "difference": 0.0093,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mkr_usdt",
+      "lbank_rate": 0.0148,
+      "mexc_rate": 0.0088,
+      "difference": 0.006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "deep_usdt",
+      "lbank_rate": 0.016,
+      "mexc_rate": 0.005,
+      "difference": 0.011,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bigtime_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.005,
+      "difference": 0.009999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "1inch_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": 0.01,
+      "difference": 0.019999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "daddy_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0119,
+      "difference": -0.0019000000000000006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xdc_usdt",
+      "lbank_rate": 0.0222,
+      "mexc_rate": 0.005,
+      "difference": 0.0172,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pippin_usdt",
+      "lbank_rate": 0.0075,
+      "mexc_rate": 0.005,
+      "difference": 0.0024999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "xrp_usdt",
+      "lbank_rate": 0.001,
+      "mexc_rate": 0.003,
+      "difference": -0.002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "snx_usdt",
+      "lbank_rate": 0.0147,
+      "mexc_rate": 0.0028,
+      "difference": 0.011899999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "zig_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ulti_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": -0.0023,
+      "difference": 0.032299999999999995,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "me_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "act_usdt",
+      "lbank_rate": 0.0021,
+      "mexc_rate": 0.0005,
+      "difference": 0.0015999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lunc_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0232,
+      "difference": 0.0332,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cpool_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ultima_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0126,
+      "difference": -0.0026,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "flr_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0024000000000000002,
+      "difference": 0.012400000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dydx_usdt",
+      "lbank_rate": 0.0097,
+      "mexc_rate": -0.0056,
+      "difference": 0.015300000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bal_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "mbox_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gpu_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": -0.013300000000000001,
+      "difference": 0.0433,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "move_usdt",
+      "lbank_rate": 0.0148,
+      "mexc_rate": -0.041800000000000004,
+      "difference": 0.056600000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "trx_usdt",
+      "lbank_rate": 0.018,
+      "mexc_rate": 0.006,
+      "difference": 0.011999999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ltc_usdt",
+      "lbank_rate": 0.018,
+      "mexc_rate": 0.01,
+      "difference": 0.007999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "anon_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.014799999999999999,
+      "difference": 0.0248,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "io_usdt",
+      "lbank_rate": -0.0125,
+      "mexc_rate": -0.009399999999999999,
+      "difference": -0.003100000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "neiroeth_usdt",
+      "lbank_rate": 0.0413,
+      "mexc_rate": 0.030600000000000002,
+      "difference": 0.010700000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tia_usdt",
+      "lbank_rate": 0.0839,
+      "mexc_rate": -0.0262,
+      "difference": 0.1101,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "paxg_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "iotx_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": 0.01,
+      "difference": 0.019999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aergo_usdt",
+      "lbank_rate": 0.0075,
+      "mexc_rate": 0.005,
+      "difference": 0.0024999999999999996,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "usdc_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0182,
+      "difference": 0.028200000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bake_usdt",
+      "lbank_rate": 0.009,
+      "mexc_rate": 0.01,
+      "difference": -0.0010000000000000009,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "prom_usdt",
+      "lbank_rate": -0.006,
+      "mexc_rate": -0.0021,
+      "difference": -0.0039000000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lumia_usdt",
+      "lbank_rate": -0.0244,
+      "mexc_rate": 0.005,
+      "difference": -0.029400000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cat_usdt",
+      "lbank_rate": 0.0328,
+      "mexc_rate": 0.005,
+      "difference": 0.027800000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ens_usdt",
+      "lbank_rate": 0.03,
+      "mexc_rate": 0.01,
+      "difference": 0.019999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "vvv_usdt",
+      "lbank_rate": -0.01,
+      "mexc_rate": 0.005,
+      "difference": -0.015,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fxs_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0012000000000000001,
+      "difference": 0.0112,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ice_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "aave_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.002,
+      "difference": 0.008,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dodo_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "usual_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "acx_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hype_usdt",
+      "lbank_rate": 0.005,
+      "mexc_rate": -0.001,
+      "difference": 0.006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "perp_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "br_usdt",
+      "lbank_rate": -0.01,
+      "mexc_rate": 0.005,
+      "difference": -0.015,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pepe_usdt",
+      "lbank_rate": 0.0112,
+      "mexc_rate": 0.01,
+      "difference": 0.0011999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cheems_usdt",
+      "lbank_rate": 0.0154,
+      "mexc_rate": 0.005,
+      "difference": 0.0104,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pyth_usdt",
+      "lbank_rate": 0.015,
+      "mexc_rate": 0.005,
+      "difference": 0.009999999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "uma_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "giga_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "fida_usdt",
+      "lbank_rate": 0.0032,
+      "mexc_rate": -0.0053,
+      "difference": 0.0085,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "apt_usdt",
+      "lbank_rate": 0.0503,
+      "mexc_rate": -0.0127,
+      "difference": 0.063,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "echo_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.017499999999999998,
+      "difference": 0.027499999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rai_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0115,
+      "difference": 0.0215,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kaito_usdt",
+      "lbank_rate": 0.013,
+      "mexc_rate": 0.0018,
+      "difference": 0.0112,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sonic_usdt",
+      "lbank_rate": -0.0511,
+      "mexc_rate": -0.048299999999999996,
+      "difference": -0.002800000000000004,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "oik_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0134,
+      "difference": -0.0034000000000000002,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "santos_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "memefi_usdt",
+      "lbank_rate": 0.0108,
+      "mexc_rate": 0.005,
+      "difference": 0.0058000000000000005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ol_usdt",
+      "lbank_rate": 0.0137,
+      "mexc_rate": 0.005,
+      "difference": 0.0087,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "kekius_usdt",
+      "lbank_rate": 0.0675,
+      "mexc_rate": 0.0135,
+      "difference": 0.054000000000000006,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "rpl_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cfx_usdt",
+      "lbank_rate": 0.0489,
+      "mexc_rate": -0.014899999999999998,
+      "difference": 0.0638,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ftt_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.0136,
+      "difference": 0.0236,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "swell_usdt",
+      "lbank_rate": 0.009,
+      "mexc_rate": 0.0038000000000000004,
+      "difference": 0.005199999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bnb_usdt",
+      "lbank_rate": 0.0177,
+      "mexc_rate": 0.0083,
+      "difference": 0.0094,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "raca_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0063,
+      "difference": 0.0037,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "avaai_usdt",
+      "lbank_rate": 0.1262,
+      "mexc_rate": 0.008,
+      "difference": 0.1182,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "nil_usdt",
+      "lbank_rate": 0.025,
+      "mexc_rate": 0.005,
+      "difference": 0.02,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "pyr_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0083,
+      "difference": 0.0017000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sol_usdt",
+      "lbank_rate": 0.0079,
+      "mexc_rate": 0.0063,
+      "difference": 0.0016000000000000007,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lazio_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "tst_usdt",
+      "lbank_rate": -0.0158,
+      "mexc_rate": 0.005,
+      "difference": -0.020800000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "hei_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "j_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "inj_usdt",
+      "lbank_rate": -0.0077,
+      "mexc_rate": 0.0053,
+      "difference": -0.013000000000000001,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dmc_usdt",
+      "lbank_rate": -0.0591,
+      "mexc_rate": -0.0439,
+      "difference": -0.015199999999999998,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "bera_usdt",
+      "lbank_rate": -0.062,
+      "mexc_rate": -0.06470000000000001,
+      "difference": 0.002700000000000008,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "gmx_usdt",
+      "lbank_rate": -0.0255,
+      "mexc_rate": -0.017,
+      "difference": -0.008499999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "luce_usdt",
+      "lbank_rate": 0.0142,
+      "mexc_rate": -0.0119,
+      "difference": 0.0261,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "dag_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "not_usdt",
+      "lbank_rate": 0.0039,
+      "mexc_rate": 0.001,
+      "difference": 0.0029,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "grok_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0585,
+      "difference": -0.0485,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "cyber_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": -0.012,
+      "difference": 0.022,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "lrc_usdt",
+      "lbank_rate": 0.0153,
+      "mexc_rate": 0.01,
+      "difference": 0.005299999999999999,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "sand_usdt",
+      "lbank_rate": 0.003,
+      "mexc_rate": 0.0052,
+      "difference": -0.0021999999999999997,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "win_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.02,
+      "difference": -0.01,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "iq_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.0111,
+      "difference": -0.0011000000000000003,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "ntrn_usdt",
+      "lbank_rate": 0.01,
+      "mexc_rate": 0.005,
+      "difference": 0.005,
+      "timestamp": "2025-07-30 12:28:27"
+    },
+    {
+      "symbol": "alch_usdt",
+      "lbank_rate": 0.0201,
+      "mexc_rate": 0.0078,
+      "difference": 0.0123,
+      "timestamp": "2025-07-30 12:28:27"
+    }
+  ]
+}
